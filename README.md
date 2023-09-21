@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Mooli&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mustafa+Vugdalic!;" />
 </h1>
 
-<h3 align="center">A Developer from Italy 🇮🇹</h3>
+<h3 align="center">A Student from Italy 🇮🇹</h3>
 
 <br/>
 
