@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **web apps**
  
- 🌱 I’m currently learning **Js, java, Typescript, C#, nodejs, python**
+ 🌱 I’m currently learning **Js, Java, Typescript, C#, Nodejs, Python, Angular**
  
  </div>
  
